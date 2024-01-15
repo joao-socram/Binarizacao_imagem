@@ -1,3 +1,5 @@
+# Código binariza imagem em preto e branco e tons de cinza
+
 import cv2
 
 def binarizar_imagem_niveis_de_cinza(imagem_path, limiar):
